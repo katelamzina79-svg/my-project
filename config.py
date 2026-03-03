@@ -1,3 +1,4 @@
 APP_NAME = "MyApp"
-DEBUG = False
+DEBUG = True
 MAX_RETRIES = 3
+LOG_LEVEL = "INFO"
